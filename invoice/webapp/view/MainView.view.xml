@@ -3,4 +3,4 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     </Page>
-</mvc:View>https://github.com/JhonHeSTR/learning_fiori.git
+</mvc:View>
